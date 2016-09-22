@@ -1,4 +1,4 @@
-### Subway Lines
+## Subway Lines
 
 We need to represent a modern subway system in code. Each subway line has a name and a list of stops. Given any subway line, we should be able to return a list of what other subway lines you can transfer to given that they have one or more of the same stops.
 
